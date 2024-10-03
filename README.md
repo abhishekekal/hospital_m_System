@@ -40,7 +40,6 @@ angular must it install in pc
 
 
 
-![Screenshot (260)](https://github.com/user-attachments/assets/7c17ba1e-6877-49d8-a3f4-cb96faa82f00)
 
 
 
