@@ -1,3 +1,47 @@
+Hospital Management System (HMS) API
+This project is a Hospital Management System (HMS) designed to manage hospital activities such as patient registrations, doctor schedules, appointments, medical records, and billing. The backend API is built using Java, Spring Boot, Hibernate, and MySQL.
+
+Table of Contents
+Project Overview
+Features
+Technologies Used
+Setup and Installation
+API Endpoints
+Database
+Contributing
+License
+Project Overview
+The Hospital Management System is developed to automate hospital activities such as managing patient records, doctor schedules, appointments, billing, and more. This API is designed to handle the backend operations, enabling an efficient and scalable hospital management system.
+
+The system includes:
+
+Patient registration and management.
+Doctor information and schedules.
+Appointment booking and management.
+Billing and invoice generation.
+Role-based access (Admin, Doctors, Patients, etc.).
+Features
+Patient Management: Register, update, and manage patient information.
+Doctor Management: Add and manage doctor profiles and schedules.
+Appointment Scheduling: Allow patients to book, update, or cancel appointments.
+Billing: Generate bills for patient visits and treatments.
+Role-based Authentication: Secure access to system functionality depending on the user role (Admin, Doctor, Patient).
+Technologies Used
+Backend: Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+Database: MySQL
+API: RESTful API, JSON
+Security: Spring Security (for authentication and authorization)
+Build Tool: Maven
+Version Control: Git
+Other Tools: Lombok, Swagger (for API documentation)
+
+
+
+
+
+
+
+
 All rest api are the written  into the java
 for displaying  the into the front end use the angular  project
 hms_angular floder open into the vs code 
